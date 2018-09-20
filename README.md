@@ -2,8 +2,8 @@
 CS 4773 Object Oriented Design - Assignment 2
 
 ### Description
-In this assignment, you will design and build an object-oriented implementation of 3 variations of the card game, War.
-**NO GUI**
+Design and build an object-oriented implementation of 3 variations of the card game, War.
+\n**NO GUI**\n
 The basic rules for the game are located here:
 http://www.bicyclecards.com/how-to-play/war/
 
