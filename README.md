@@ -7,17 +7,17 @@ Design and build an object-oriented implementation of 3 variations of the card g
 **NO GUI**
 
 ### Variations to Implement
-a. placing won cards on the bottom of the player’s hand (you will need to have a maximum # of iterations because this game variation can last a ridiculously long time). Winner is player with most cards in hand at end of game.
-b. placing won cards in a separate points pile. Winner is player with most cards in points pile at end of game.
-c. 3-player war placing won cards in a separate points pile. The rules for 3-person war are located here: https://en.wikipedia.org/wiki/War_(card_game). Winner is player with most cards in points pile at end of game.
+1. placing won cards on the bottom of the player’s hand (you will need to have a maximum # of iterations because this game variation can last a ridiculously long time). Winner is player with most cards in hand at end of game.
+2. placing won cards in a separate points pile. Winner is player with most cards in points pile at end of game.
+3. 3-player war placing won cards in a separate points pile. The rules for 3-person war are located here: https://en.wikipedia.org/wiki/War_(card_game). Winner is player with most cards in points pile at end of game.
 
 Game implementations must log gameplay to the console. All 3 variations should allow for the possibility of a tie and output should indicate if a tie occurs.
 
 Code must follow all of the clean code rules as described by Uncle Bob, AS WELL AS:
-a. your Java project must have AT LEAST 8 .java files (including Enums but excluding JUnit files)
-b. no .java file may be more than 150 lines long (including blank lines and comments)
-c. no .java file may be fewer than 3 lines long (including blank lines and comments)
-d. error handling can only be accomplished using unchecked exceptions
+1. your Java project must have AT LEAST 8 .java files (including Enums but excluding JUnit files)
+2. no .java file may be more than 150 lines long (including blank lines and comments)
+3. no .java file may be fewer than 3 lines long (including blank lines and comments)
+4. error handling can only be accomplished using unchecked exceptions
 
 You are required to *create 10 JUnit test cases* that test game variation outcomes WITH A FIXED DECK. 
 This means that your card deck implementation must allow for the traditional 52 cards with a shuffle, as well as manually assigning it a set of known cards (e.g., a 2 card deck, a 3 card deck, a 4 card deck, etc.). 
