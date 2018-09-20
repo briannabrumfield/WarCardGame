@@ -1,4 +1,4 @@
-# War_CardGame
+# War CardGame
 CS 4773 Object Oriented Design - Assignment 2
 
 ### DESCRIPTION:
@@ -36,7 +36,7 @@ simple: with the cards and the deck
 and share code with the first variation
 7. repeat until done
 
-**Include in Project**
+##### Include in Project
 Put a PNG or JPG copy of your UML diagram in your Eclipse project and call it
 assignment2UML.png or .jpg
 
