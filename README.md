@@ -2,10 +2,9 @@
 CS 4773 Object Oriented Design - Assignment 2
 
 ### Description
-Design and build an object-oriented implementation of 3 variations of the card game, War.
-\n**NO GUI**\n
-The basic rules for the game are located here:
-http://www.bicyclecards.com/how-to-play/war/
+Design and build an object-oriented implementation of 3 variations of the card game, War. The basic rules for the game are located here: http://www.bicyclecards.com/how-to-play/war/
+
+**NO GUI**
 
 ### Variations to Implement
 a. placing won cards on the bottom of the player’s hand (you will need to have a maximum # of iterations because this game variation can last a ridiculously long time). Winner is player with most cards in hand at end of game.
